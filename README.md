@@ -1,4 +1,4 @@
-# 💄 Cosmetic Insights: Navigating Cosmetics Trends and Consumer Behavior
+# Cosmetic Insights 💄 : Navigating Cosmetics Trends and Consumer Behavior
 
 ---
 
