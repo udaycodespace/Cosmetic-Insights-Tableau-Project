@@ -7,71 +7,55 @@
   </a>
 </p>
 
-# Cosmetic Insights 💄
-*Navigating Cosmetics Trends & Consumer Behavior*
+# Cosmetic Insights 💄 : Navigating Cosmetics Trends and Consumer Behavior
 
 ---
 
 ## 🛑 NOTE TO EVALUATORS & SMARTINTERNZ TEAM
 
-I am **Somapuram Uday**, a final-year CST student at **GPREC(A), Kurnool**, pursuing the **Data Analytics with Tableau** track under the **SmartInternz – APSCHE Virtual Internship Program 2025**.
+I am **Somapuram Uday**, a final-year CST student from **GPREC(A), Kurnool**, enrolled in the **Data Analytics with Tableau** track under the **SmartInternz – APSCHE Virtual Internship Program 2025**.
 
----
+### 🌀 Project Journey & Clarifications
 
-## 📋 Deliverables
-
-<p align="center">
-| 📝 Item                   | ✅ Status    |
-|--------------------------|--------------|
-| GitHub Repository        | ✅ Done      |
-| LMS Submission Form      | ✅ Done      |
-| Credly Badge             | ✅ Claimed   |
-| NASSCOM Profile          | ✅ Created   |
-| Google Review            | ✅ Posted    |
-| Live Classes             | ✅ Attended  |
-| Quizzes & Grand Test     | ✅ Completed |
-</p>
-
----
-
-## 🌀 Project Journey & Clarifications
-
-1. **Auto-Assigned Team**  
+1. **Initial Project & Team (Auto-Assigned)**  
    - 🆔 **Team ID**: `LTVIP2025TMID49042`  
    - 👤 **Role**: Team Leader  
-   - 📌 **Project**: *Toycraft Tales* (initial)  
-   - 👥 **Members**: Shaik Reshma, Shaik Sadiq Ismail, Sanda Kumar, and me  
-   - ❗ **Issue**: Others belonged to **GPCET**; I am from **GPREC(A)**.
+   - 📌 **Project**: Intial title *“Toycraft Tales”*  
+   - 👥 **Team Members**: Myself, Shaik Reshma, Shaik Sadiq Ismail, Sanda Kumar  
+   - ❗ **Issue**: All others were from **GPCET** including SPOC, while I belong to **GPREC(A)**.
 
-2. **Profile Mismatch**  
-   - Shown as **GPCET** instead of **GPREC(A)**.  
-   - Raised **4–5 emails** to SmartInternz—no response.  
-   - Issue still unresolved as of **July 7, 2025**.
+2. **Repeated Issue Faced**  
+   - My profile showed **GPCET** incorrectly instead of **GPREC(A)**.  
+   - Sent **4–5 mails** to SmartInternz without receiving a reply.  
+   - As of **Today**, this profile issue still persists.
 
-3. **Reallocation on June 25, 2025**  
-   - 🆕 **Team ID**: `LTVIP2025TMID49390`  
-   - 🎯 **Project**: *Cosmetic Insights: Navigating Cosmetics*  
-   - 👤 **Team Leader**: Shaik Reshma  
-   - ❌ No responses from team; I completed the project solo per updated portal.
+3. **Change in Project Allocation**  
+   - 📩 On **June 25, 2025**, I was reassigned to:
+     - 🆕 **Team ID**: `LTVIP2025TMID49390`
+     - 🎯 **Project**: **Cosmetic Insights: Navigating Cosmetics**
+     - 👤 **New Team Leader**: Shaik Reshma  
+   - ❌ However, no team member responded (old or new) via email.  
+   - ✅ I then **discontinued the initial Toy project** and **fully completed the new project solo**, respecting the SmartInternz portal's updated project info and timelines.
 
-> 📂 Official Assignments submissions reside in `1_Assignments/Somapuram_Uday/`.
+🔖 **NOTE:** Assignment files are stored under `1_Assignments/Somapuram_Uday/`. Please consider this folder as the official submission directory.
 
 ---
 
 ## 📊 Project Overview
 
-**Title**: *Cosmetic Insights: Navigating Cosmetics Trends & Consumer Behavior*  
-**Track**: Data Analytics with Tableau  
-**Objective**: Uncover key consumer trends, category performance, and regional patterns in cosmetics via interactive Tableau dashboards.
+**Title**: *Cosmetic Insights: Navigating Cosmetics Trends and Consumer Behavior*  
+**Internship Track**: Data Analytics with Tableau  
+**Goal**:  
+To understand consumer trends, product category performance, and regional insights in the cosmetics sector using Tableau dashboards. This project provides interactive insights for better decision-making by stakeholders.
 
 ---
 
-## 🧠 Technologies & Tools
+## 🧠 Technologies & Tools Used
 
-- **Tableau Public** – Interactive visualization  
-- **Microsoft Excel** – Data cleaning & preprocessing  
-- **PDF Tools** – Documentation  
-- **Google Drive** – Demo video hosting
+- **Tableau Public** – For data visualization and interactive dashboard design  
+- **Microsoft Excel** – For preprocessing and cleaning datasets  
+- **PDF Tools** – For documentation and reporting  
+- **Google Drive** – For video demo hosting and sharing  
 
 ---
 
@@ -110,7 +94,7 @@ Cosmetic-Insights-Tableau-Project/
 │   ├── Cosmetics_Dataset.pdf
 │   ├── Dashboard.twbx
 │   ├── Screenshot_Dashboard.pdf
-│   └── (Backup files – optional to remove)
+│   └── (Temp Tableau backups – optional to remove)
 │       ├── ~Dashboard__12204.twbr
 │       └── ~Dashboard__2568.twbr
 │
@@ -127,19 +111,19 @@ Cosmetic-Insights-Tableau-Project/
 │   ├── LINKS.pdf
 │   └── Links.txt
 │
-└── README.md
+├── README.md
 ```
 
 ---
 
 ## 📈 Tableau Public Dashboards
 
-- **Workbook**: [Cosmetic Insights Tableau Project](https://public.tableau.com/views/Cosmetic_Insights_Tableau_Project/Dashboard1)  
-- **Dashboards**:  
-  - [Dashboard 1](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_1/Dashboard1)  
-  - [Dashboard 2](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_2/Dashboard2)  
-  - [Dashboard 3](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_3/Dashboard3)  
-- **Story View**: [Cosmetic Insights Story](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Story/Story1)  
+- **Workbook**: [Cosmetic Insights Tableau Project](https://public.tableau.com/views/Cosmetic_Insights_Tableau_Project/Dashboard1)
+- **Dashboards**:
+  - [Dashboard 1](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_1/Dashboard1)
+  - [Dashboard 2](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_2/Dashboard2)
+  - [Dashboard 3](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_3/Dashboard3)
+- **Story View**: [Cosmetic Insights Story](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Story/Story1)
 - **Demo Video**: [Watch on Google Drive](https://drive.google.com/file/d/1MsVV5ywteTWxaNzCil0Fwcyfkxwhz5z9/view?usp=sharing)
 
 ---
@@ -151,15 +135,20 @@ Cosmetic-Insights-Tableau-Project/
 - **College**: GPREC(A), Kurnool  
 - **Branch**: Computer Science and Technology (CST)  
 - **Year**: Final Year  
-- **Track**: Data Analytics using Tableau
+- **Internship Track**: Data Analytics using Tableau  
 
 ---
 
 ## 🙏 Acknowledgments
 
-Special thanks to:
-- **Indraprakash Sir**  
-- **Ganesh Sir**  
-- **Mithun Sir**  
+Special thanks to our mentors and facilitators who made this journey meaningful:
 
-Your mentorship has been invaluable. 💐
+- **Indraprakash Sir**
+- **Ganesh Sir**
+- **Mithun Sir**
+
+Your guidance and sessions have been a valuable part of this internship. 💐
+
+<p align="center">
+⭐ Built with passion, frustration & late-night debugging ☕
+</p>
