@@ -1,141 +1,169 @@
-# Cosmetic Insights 💄 : Navigating Cosmetics Trends and Consumer Behavior
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-Public-blue" alt="Tableau">
+  <a href="https://github.com/udaycodespace/Cosmetic-Insights-Tableau-Project">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black" alt="GitHub Repo">
+  </a>
+</p>
+
+<h1 align="center">💄 Cosmetic Insights</h1>
+<h3 align="center">Navigating Cosmetics Trends & Consumer Behavior</h3>
 
 ---
 
-## 🛑 NOTE TO EVALUATORS & SMARTINTERNZ TEAM
+## 🛑 Note to Evaluators & SmartInternz Team
 
-I am **Somapuram Uday**, a final-year CST student from **GPREC(A), Kurnool**, enrolled in the **Data Analytics with Tableau** track under the **SmartInternz – APSCHE Virtual Internship Program 2025**.
+Hello! I’m **Somapuram Uday**, final‑year CST at **G Pulla Reddy Engineering College (GPREC), Kurnool**.  
+Enrolled in **Data Analytics with Tableau** under **SmartInternz – APSCHE Virtual Internship 2025**.
 
-### 🌀 Project Journey & Clarifications
+> 🚨 **Profile Issue**: LMS still displays **G.Pullaiah College of Engineering & Technology** despite multiple emails and a submitted "Change College Name" form.  
+> 📌 **Action Needed**: Kindly update to **GPREC** before certificate issuance.
 
-1. **Initial Project & Team (Auto-Assigned)**  
-   - 🆔 **Team ID**: `LTVIP2025TMID49042`  
-   - 👤 **Role**: Team Leader  
-   - 📌 **Project**: Tentatively titled *“Toy Story”*  
-   - 👥 **Team Members**: Myself, Shaik Reshma, Shaik Sadiq Ismail, Sanda Kumar  
-   - ❗ **Issue**: All others were from **GPCET**, while I belong to **GPREC(A)**.
+---
 
-2. **Repeated Issue Faced**  
-   - My profile showed **GPCET** incorrectly instead of **GPREC(A)**.  
-   - Sent **4–5 mails** to SmartInternz without receiving a reply.  
-   - As of **30th June 2025**, this profile issue still persists.
+## 🚀 Internship Journey
 
-3. **Change in Project Allocation**  
-   - 📩 On **June 25, 2025**, I was reassigned to:
-     - 🆕 **Team ID**: `LTVIP2025TMID49390`
-     - 🎯 **Project**: **Cosmetic Insights: Navigating Cosmetics**
-     - 👤 **New Team Leader**: Shaik Reshma  
-   - ❌ However, no team member responded (old or new) via email.  
-   - ✅ I then **discontinued the initial Toy project** and **fully completed the new project solo**, respecting the SmartInternz portal's updated project info and timelines.
+<details>
+<summary>🗓️ Timeline & Team Transitions</summary>
 
-🔖 **NOTE:** Assignment files are stored under `1_Assignments/Somapuram_Uday/`. Please consider this folder as the official submission directory.
+### 📍 Phase 1 – Toy Story Project
+
+- 🗓️ **June 12, 2025**
+- 🧠 **Team ID**: `LTVIP2025TMID49042`
+- 🎯 **Role**: Team Leader  
+- 🧩 **Project**: Toy Story Prototype  
+- 👥 **Members**: Shaik Reshma, Shaik Sadiq Ismail, Sanda Kumar  
+- ❌ **Issue**: Everyone was from GPCET including SPOC, so I proceeded to finish it solo.
+
+---
+
+### 📍 Phase 2 – Cosmetic Insights (Final Project)
+
+- 🗓️ **June 25, 2025**
+- 🧠 **Team ID**: `LTVIP2025TMID49390`
+- 👩‍💻 **Team Leader**: Shaik Reshma  
+- 👥 **Members**: Dudekula Dastagiri, Somapuram Uday, Shaik Sadiq Ismail, Sanda Kumar  
+- 🧩 **Project**: Cosmetic Insights via Tableau  
+- ❌ **Outcome**: No responses → I **trashed the team project** and completed it solo successfully!
+
+</details>
+
+---
+
+## 📋 Deliverables
+
+<p align="center">
+
+| 📝 Item                     | ✅ Status    |
+|----------------------------|--------------|
+| GitHub Repository          | ✅ Done       |
+| LMS Submission Form        | ✅ Done       |
+| Credly Badge               | ✅ Claimed    |
+| NASSCOM Profile            | ✅ Created    |
+| Google Review              | ✅ Posted     |
+| Live Classes               | ✅ Attended   |
+| Quizzes & Grand Test       | ✅ Completed  |
+
+</p>
 
 ---
 
 ## 📊 Project Overview
 
-**Title**: *Cosmetic Insights: Navigating Cosmetics Trends and Consumer Behavior*  
-**Internship Track**: Data Analytics with Tableau  
-**Goal**:  
-To understand consumer trends, product category performance, and regional insights in the cosmetics sector using Tableau dashboards. This project provides interactive insights for better decision-making by stakeholders.
+> **Project Title**: *Cosmetic Insights: Navigating Cosmetics Trends & Consumer Behavior*  
+> **Objective**: Use Tableau to build interactive dashboards that:
+- Analyze product category trends  
+- Map regional preferences  
+- Visualize sentiments & purchase decisions
 
 ---
 
 ## 🧠 Technologies & Tools Used
 
-- **Tableau Public** – For data visualization and interactive dashboard design  
-- **Microsoft Excel** – For preprocessing and cleaning datasets  
-- **PDF Tools** – For documentation and reporting  
-- **Google Drive** – For video demo hosting and sharing  
+<p align="center">
+  <b>Tableau Public</b> – For dashboards and visual storytelling<br/>
+  <b>Microsoft Excel</b> – Data wrangling & cleanup<br/>
+  <b>PDF Tools</b> – Report documentation<br/>
+  <b>Google Drive</b> – For demo video hosting
+</p>
 
 ---
 
-## 🧱 Repository Structure
+## 🗂️ Repository Structure
 
 ```
 Cosmetic-Insights-Tableau-Project/
-│
-├── 1_Assignments/Somapuram_Uday/
-│   ├── DA_Assignment_1_SOMAPURAM_UDAY.pdf
-│   ├── DA_Assignment_2_SOMAPURAM_UDAY.pdf
-│   └── DA_Assignment_3_SOMAPURAM_UDAY.pdf
-│
+├── 1_Assignments/
+│   └── Somapuram_Uday/
+│       ├── DA_Assignment_1_SOMAPURAM_UDAY.pdf
+│       ├── DA_Assignment_2_SOMAPURAM_UDAY.pdf
+│       └── DA_Assignment_3_SOMAPURAM_UDAY.pdf
 ├── 2_Ideation_Phase/
 │   ├── Brainstorming.pdf
 │   ├── Empathy_Map.pdf
 │   └── Problem_Statement.pdf
-│
 ├── 3_Requirement_Analysis/
 │   ├── Customer_Journey_Map.pdf
 │   ├── Data_Flow_Diagram.pdf
 │   ├── Solution_Requirements.pdf
 │   └── Technology_Stack.pdf
-│
-├── 4_Project_Design_Phase/
+├── 4_Design_Phase/
 │   ├── Problem_Solution_Fit.pdf
 │   ├── Proposed_Solution.pdf
 │   └── Solution_Architecture.pdf
-│
-├── 5_Project_Planning_Phase/
+├── 5_Planning_Phase/
 │   └── Project_Planning_Template.pdf
-│
-├── 6_Project_Executable_Files/
+├── 6_Executable_Files/
 │   ├── supermarket_sales.csv
 │   ├── Cosmetics_Dataset.csv
-│   ├── Cosmetics_Dataset.pdf
 │   ├── Dashboard.twbx
-│   ├── Screenshot_Dashboard.pdf
-│   └── (Temp Tableau backups – optional to remove)
-│       ├── ~Dashboard__12204.twbr
-│       └── ~Dashboard__2568.twbr
-│
-├── 7_Functional_Performance_Test/
+│   └── Screenshot_Dashboard.pdf
+├── 7_Testing/
 │   ├── Performance_Testing.pdf
 │   └── Screenshot_Report.pdf
-│
-├── 8_Doc_and_Demo/
+├── 8_Documentation_and_Demo/
 │   ├── Final_Report.pdf
-│   ├── Cosmetic_Insights_Project_Presentation.pptx
-│   ├── Cosmetic_Insights_Project_Presentation.pdf
-│   ├── VIDEO_DEMO_LINK.pdf
-│   ├── Video_Demo_Link.txt
-│   ├── LINKS.pdf
-│   └── Links.txt
-│
-├── README.md
+│   ├── Presentation.pptx
+│   └── VideoDemo_Link.txt
+└── README.md
 ```
 
----
-
-## 📈 Tableau Public Dashboards
-
-- **Workbook**: [Cosmetic Insights Tableau Project](https://public.tableau.com/views/Cosmetic_Insights_Tableau_Project/Dashboard1)
-- **Dashboards**:
-  - [Dashboard 1](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_1/Dashboard1)
-  - [Dashboard 2](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_2/Dashboard2)
-  - [Dashboard 3](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_3/Dashboard3)
-- **Story View**: [Cosmetic Insights Story](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Story/Story1)
-- **Demo Video**: [Watch on Google Drive](https://drive.google.com/file/d/1MsVV5ywteTWxaNzCil0Fwcyfkxwhz5z9/view?usp=sharing)
+> 🔖 **NOTE**: All assignment files are under `1_Assignments/Somapuram_Uday/` – as I worked solo, this is the official submission path.
 
 ---
 
-## 👨‍🎓 About Me
+## 📈 Tableau Dashboards
 
-- **Name**: Somapuram Uday  
-- **Email**: 229x1a2856@gprec.ac.in  
-- **College**: GPREC(A), Kurnool  
-- **Branch**: Computer Science and Technology (CST)  
-- **Year**: Final Year  
-- **Internship Track**: Data Analytics using Tableau  
+- 🧾 [Dashboard 1 – Product Analysis](https://public.tableau.com/views/Cosmetic_Insights_Tableau_Project/Dashboard1)  
+- 🧾 [Dashboard 2 – Sentiment Mapping](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_2/Dashboard2)  
+- 🧾 [Dashboard 3 – Purchase Behavior](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_3/Dashboard3)  
+- 📖 [Story View – Insights Flow](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Story/Story1)  
+- 🎬 [Demo Video – Google Drive](https://drive.google.com/file/d/1MsVV5ywteTWxaNzCil0Fwcyfkxwhz5z9/view?usp=sharing)
+
+---
+
+## 👨‍🎓 Author
+
+<p align="center">
+<b>Somapuram Uday</b><br/>
+📧 229x1a2856@gprec.ac.in  
+🏫 G Pulla Reddy Engineering College (A), Kurnool  
+💻 CST - Final Year  
+</p>
 
 ---
 
 ## 🙏 Acknowledgments
 
-Special thanks to our mentors and facilitators who made this journey meaningful:
+Special thanks to:
 
-- **Indraprakash Sir**
-- **Ganesh Sir**
-- **Mithun Sir**
+- 👨‍🏫 **Indraprakash Sir**  
+- 👨‍🏫 **Ganesh Sir**  
+- 👨‍🏫 **Mithun Sir**  
 
-Your guidance and sessions have been a valuable part of this internship. 💐
+For their continued guidance & motivation throughout the internship 💡
+
+---
+
+<p align="center">
+⭐ Built with passion, frustration & late-night debugging ☕
+</p>
